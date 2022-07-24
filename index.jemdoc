@@ -48,3 +48,7 @@ In Proceedings of the 1st Asia Pacific Web (APWeb) and Web-Age Information Manag
 [Top-k Teams Recommendation in Spatial Crowdsourcing],
 In Proceedings of the 17th International Conference on Web-Age Information Management, Pages 191-204, Nanchang, Jiangxi, China, June 3-5, 2016.
 (*Best Paper Award*)
+
+
+=== Open Source Project
+. [https://github.com/alibaba/FederatedScope *FederatedScope*]: An easy-to-use federated learning platform.
