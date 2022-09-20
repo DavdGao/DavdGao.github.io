@@ -23,6 +23,9 @@ My research focuses on
 - Data Mining
 
 === Recent Publications
+. \[*NeurIPS'22*\] Daoyuan Chen, Dawei Gao, Weirui Kuang, Yaliang Li, Bolin Ding.
+[pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning],
+In Proceedings of the Annual Conference on Neural Information Processing Systems, New Orleans, USA, Nov 27 - Dec 3, 2022. (Datasets and Benchmarks Track)
 . \[*KDD'22*\] Dawei Gao, Yuexiang Xie, Zimu Zhou, Zhen Wang, Yaliang Li, Bolin Ding.
 [Finding Meta Winning Ticket to Train Your MAML],
 In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Washington, DC, USA, Aug 14 - Aug 18, 2022.
