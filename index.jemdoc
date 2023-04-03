@@ -23,6 +23,12 @@ My research focuses on
 - Data Mining
 
 === Recent Publications
+. \[*VLDB'23*\] Yuexiang Xie, Zhen Wang, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou.
+[FederatedScope: A Flexible Federated Learning Platform for Heterogeneity],
+In Proceedings of the VLDB Endowment, 2023.
+. \[*arXiv*\] Liuyi Yao, Dawei Gao, Zhen Wang, Yuexiang Xie, Weirui Kuang, Daoyuan Chen, Haohui Wang, Chenhe Dong, Bolin Ding, Yaliang Li.
+[A Benchmark for Federated Hetero-Task Learning],
+arXiv, 2022.
 . \[*NeurIPS'22*\] Daoyuan Chen, Dawei Gao, Weirui Kuang, Yaliang Li, Bolin Ding.
 [pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning],
 In Proceedings of the Annual Conference on Neural Information Processing Systems, New Orleans, USA, Nov 27 - Dec 3, 2022. (Datasets and Benchmarks Track)
