@@ -23,9 +23,15 @@ My research focuses on
 - Data Mining
 
 === Recent Publications
+. \[*KDD'23*\] Daoyuan Chen*, Dawei Gao*, Yuexiang Xie, Xuchen Pan, Zitao Li, Yaliang Li, Bolin Ding, Jingren Zhou.
+[FS-REAL: Towards Real-World Cross-Device Federated Learning]
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Long Beach, California, USA, Aug 6 - Aug 10, 2023.
+. \[*KDD'23*\] Ergute Bao, Dawei Gao, Xiaokui Xiao, Yaliang Li.
+[Communication Efficient and Differentially Private Logistic Regression under the Distributed Setting]
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Long Beach, California, USA, Aug 6 - Aug 10, 2023.
 . \[*VLDB'23*\] Yuexiang Xie, Zhen Wang, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou.
 [FederatedScope: A Flexible Federated Learning Platform for Heterogeneity],
-In Proceedings of the VLDB Endowment, 2023.
+In Proceedings of the VLDB Endowment, vol.15, no.6, Vancouver, Canada, Aug 29 - Sep 1, 2023.
 . \[*arXiv*\] Liuyi Yao, Dawei Gao, Zhen Wang, Yuexiang Xie, Weirui Kuang, Daoyuan Chen, Haohui Wang, Chenhe Dong, Bolin Ding, Yaliang Li.
 [A Benchmark for Federated Hetero-Task Learning],
 arXiv, 2022.
@@ -38,7 +44,7 @@ In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery
 (Research Track)
 . \[*CIKM'21*\] Dawei Gao, Xiaoxi He, Zimu Zhou*, Yongxin Tong, Lothar Thiele.
 [Pruning Meta-Trained Networks for On-Device Adaptation],
-In Proceedings of the ACM International Conference on Information and Knowledge Management, Virtual, Nov 01 - Nov 05, 2021
+In Proceedings of the ACM International Conference on Information and Knowledge Management, Virtual, Nov 01 - Nov 05, 2021.
 . \[*KDD'21*\] Xiaoxi He, Dawei Gao, Zimu Zhou*, Yongxin Tong, Lothar Thiele.
 [Pruning-Aware Merging for Efficient Multitask Inference],
 In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Virtual, Aug 14 - Aug 18, 2021.
