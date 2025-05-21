@@ -7,6 +7,21 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 DAWEI GAO</copyright>
+    <lastBuildDate>Wed, 21 May 2025 14:43:31 +0800</lastBuildDate>
     <atom:link href="https://davdgao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AgentScope</title>
+      <link>https://davdgao.github.io/tags/agentscope/</link>
+      <pubDate>Wed, 21 May 2025 14:43:31 +0800</pubDate>
+      <guid>https://davdgao.github.io/tags/agentscope/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MCP</title>
+      <link>https://davdgao.github.io/tags/mcp/</link>
+      <pubDate>Wed, 21 May 2025 14:43:31 +0800</pubDate>
+      <guid>https://davdgao.github.io/tags/mcp/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
