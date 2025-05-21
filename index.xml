@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dawei&#39;s Homepage</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Dawei&#39;s Homepage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2025 DAWEI GAO</copyright>
+    <lastBuildDate>Wed, 21 May 2025 15:09:30 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+      <pubDate>Wed, 21 May 2025 15:09:30 +0800</pubDate>
+      <guid>http://localhost:1313/publication/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&lt;p&gt;[&lt;b&gt;arXiv&amp;rsquo;25&lt;/b&gt;] Zikang Liu, Kun Zhou, Wayne Xin Zhao, &lt;b&gt;Dawei Gao&lt;/b&gt;, Yaliang Li, Ji-Rong Wen. &lt;a href=&#34;https://arxiv.org/abs/2405.05999&#34;&gt;Do we Really Need Visual Instructions? Towards Visual Instruction-Free Fine-tuning for Large Vision-Language Models.&lt;/a&gt;,&#xA;arXiv, 2025.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;[&lt;b&gt;arXiv&amp;rsquo;25&lt;/b&gt;] Zitao Li, Fei Wei, Yuexiang Xie, &lt;b&gt;Dawei Gao&lt;/b&gt;, Weirui Kuang, Zhijian Ma, Bingchen Qian, Yaliang Li, Bolin Ding. &lt;a href=&#34;https://doi.org/10.48550/arXiv.2502.09596&#34;&gt;KIMAs: A Configurable Knowledge Integrated Multi-Agent System.&lt;/a&gt;,&#xA;arXiv, 2025.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;[&lt;b&gt;arXiv&amp;rsquo;24&lt;/b&gt;] Xuchen Pan, &lt;b&gt;Dawei Gao&lt;/b&gt;(co-first author), Yuexiang Xie, Zhewei Wei, Yaliang Li, Bolin Ding, Ji-Rong Wen, Jingren Zhou. &lt;a href=&#34;https://arxiv.org/html/2407.17789v1&#34;&gt;Very Large-Scale Multi-Agent Simulation in AgentScope&lt;/a&gt;,&#xA;arXiv, 2024.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Developing with MCP: A Developer&#39;s Perspective</title>
+      <link>http://localhost:1313/post/mcp/</link>
+      <pubDate>Wed, 21 May 2025 14:43:31 +0800</pubDate>
+      <guid>http://localhost:1313/post/mcp/</guid>
+      <description>&lt;p&gt;As a developer working on &lt;a href=&#34;https://github.com/modelscope/agentscope&#34;&gt;AgentScope&lt;/a&gt;, a multi-agent platform. I have been integrating Model Context Protocol (MCP) servers into our library. Though impressed by the simple and elegant idea behind MCP, I encountered some practical challenges and I thought it valuable to share my experience.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-journey-with-mcp&#34;&gt;My Journey with MCP&lt;/h2&gt;&#xA;&lt;h3 id=&#34;start-with-a-simple-server&#34;&gt;Start with a Simple Server&lt;/h3&gt;&#xA;&lt;p&gt;My journey started with a simple map service MCP server (like Google Maps) with the following basic functions:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 21 May 2025 14:42:19 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Dawei Gao is currently a Senior Algorithm Engineer in the Data Analytics and Intelligence Lab (DAIL) at Alibaba DAMO Academy. He receives his Ph.D. in 2022 in the Department of Computer Science and Engineering, Beihang University (Supervised by Prof. Ke Xu &amp;amp; Prof. Yongxin Tong). He receives his B.E. in 2016 in the Department of Computer Science and Engineering, Beihang University.&lt;/p&gt;&#xA;&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/modelscope/agentscope&#34;&gt;AgentScope: Agent-Oriented Programming for Building LLM Applications&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alibaba/FederatedScope&#34;&gt;FederatedScope: A Flexible Federated Learning Platform for Heterogeneity&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/modelscope/Data-Juicer&#34;&gt;Data-Juicer: A One-Stop Data Processing System for Large Language Models&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;&#xA;&lt;p&gt;My recent research focuses on&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
